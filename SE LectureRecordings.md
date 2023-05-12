@@ -1,4 +1,4 @@
-# SE Lecture ecordings
+# SE Lecture recordings
 ## Ordered from oldest to Newest
 
 1. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=1df7c274-0925-41fa-a67f-c9baea54b6a3
