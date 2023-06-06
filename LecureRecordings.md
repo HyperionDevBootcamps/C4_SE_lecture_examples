@@ -1,5 +1,5 @@
-# SE Lecture recordings
-## Ordered from oldest to Newest
+# SE LectureRecordings
+## Ordered from oldest to newest
 
 1. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=1df7c274-0925-41fa-a67f-c9baea54b6a3
 2. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=eda37447-f463-4208-8d14-0b5c351cefe3
@@ -30,3 +30,11 @@
 27. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=09c450f4-3166-4314-b9f0-86b630e6d5d9
 28. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=f1a1a41a-0bd9-4dcc-b026-331038118a69
 29. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=af5e42ee-b4c8-4996-a27b-025da8132c71
+30. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=b1563b03-234a-4dd8-a941-49d37dc3d7bb
+31. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=5a5dedc7-79ff-486a-872e-50289b25f032
+32. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=51b3fa27-c2da-4954-9b7f-e21221a2e323
+33. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=7cd4038f-a6d2-47ab-ba5f-40a9f9d7f736
+34. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=934780d1-d9e6-439a-a6a3-10235b0bd7e3
+35. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=35acf033-3c1b-48f4-9137-7534cdb8b44c
+36. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=e25519f7-87d0-4a13-ab14-89e7ca5361b2
+37. https://app.livestorm.co/p/e31dd32e-d39f-45d1-b73d-11bf925435bc/live?s=0b5cdc9d-1bba-4cd6-a96e-1b74c78795a6
