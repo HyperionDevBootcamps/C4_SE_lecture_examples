@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block head %}
+<title>Successful registered</title>
+{% endblock %}
+
+{% block body %}
+<div><h3>Welcome {{ username }}!</h3></div>
+<div><form action="/users" method="post"><button type="submit">See all users</button></form></div>
+{% endblock %}

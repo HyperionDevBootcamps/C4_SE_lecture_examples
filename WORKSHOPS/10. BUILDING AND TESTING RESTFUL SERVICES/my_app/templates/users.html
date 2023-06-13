@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block head %}
+<title>USERS</title>
+{% endblock %}
+
+{% block body %}
+    <body><ul>
+    {% for user in users %}
+        <li>{{ user }}</li>
+    {% endfor %}  
+    <form action="/register"><button type="submit">Back to Register</button></button></form>
+    </ul></body>
+{% endblock %}

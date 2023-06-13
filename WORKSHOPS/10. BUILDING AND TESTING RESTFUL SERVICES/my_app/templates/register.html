@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block head %}
+<title>Home Page</title>
+{% endblock %}
+
+{% block body %}
+<div>
+    <h1>Welcome to the homepage!</h1>
+</div>
+<div>Please register for a game below:</div>
+<div>
+    <form action="/submit" method="post">
+        <label for="name">Username: </label>
+        <input type="text" id="name" name="name" autocomplete="off" required>
+        <select name="game">
+            <option disabled selected>Game</option>
+            {% for game in games %}
+                <option value="{{ game }}">{{ game }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Register</button>
+    </form>
+</div>
+{% endblock %}
