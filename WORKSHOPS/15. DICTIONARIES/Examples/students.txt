@@ -1,0 +1,3 @@
+John;Camber;23;Bsc Computer Science
+Clare;Speer;22;Bcom Accounting
+Steve;Jobs;29;BEng Electronics
