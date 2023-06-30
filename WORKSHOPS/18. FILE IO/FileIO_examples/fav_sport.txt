@@ -1,0 +1,7 @@
+ID FavouriteSport Reg_Date
+6451235675 Tennis 22 Jan 21
+9516423724 Cricket 20 Jan 21
+7854125685 Tennis 03 Feb 21
+9643152734 Rugby 19 Jan 21
+8564273151 Cricket 26 Jan 21
+7631245678 Cricket 30 Jan
